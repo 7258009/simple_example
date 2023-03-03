@@ -212,3 +212,5 @@ func main() {
         fmt.Println("It's after noon")
     }
 
+    whatAmI := func(i interface{}) {
+        switch t := i.(type) {
