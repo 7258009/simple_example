@@ -21,3 +21,4 @@ hello-world    hello-world.go
 $ ./hello-world
 hello world
 
+2) Data Types (Values)
