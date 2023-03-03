@@ -50,24 +50,19 @@ false
 package  main
 import  "fmt"
 func  main ()  {
-//vardeclares 1 or more variables
+
     var  a  =  "initial" 
     fmt . println ( a )
     
-    
-//You can declare multiple variables at once
     var  b ,  c  int  =  1 ,  2 
     fmt . println ( b ,  c )
 
-//Go will determine the type from the initialized variable.
     var  d  =  true 
     fmt . println ( d )
 
-//Variables declared without proper initialization are null . For example, a null value for intequals 0.
     var  e  int 
     fmt . println ( e )
 
-//Go has a short statement :=for declaring and initializing a variable. For example, var f string = "apple"in shorthand it will turn into
     f  :=  "apple" 
     fmt . println ( f ) 
 }
@@ -79,3 +74,4 @@ true
 0 
 apple
 
+4) Constants
