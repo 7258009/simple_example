@@ -204,4 +204,5 @@ func main() {
         fmt.Println("It's a weekday")
     }
 
-
+    t := time.Now()
+ 
