@@ -125,3 +125,8 @@ if  7 % 2  ==  0  {
         fmt . Println ( num ,  "has multiple digits" ) 
     } 
 }
+
+$ go run if -else.go 
+ 7 is odd 
+8 is divisible by 4 
+9 has 1 digit
