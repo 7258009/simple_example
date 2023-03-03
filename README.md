@@ -132,7 +132,6 @@ func main() {
     }
 }
 
-
 $ go run for.go
 1
 2
@@ -144,11 +143,6 @@ loop
 1
 3
 5
-
-
-
-
-
 
 
 6) "If"
@@ -180,3 +174,8 @@ $ go run if -else.go
  7 is odd 
 8 is divisible by 4 
 9 has 1 digit
+
+
+7) "Switch"
+
+package main
