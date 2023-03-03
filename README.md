@@ -104,3 +104,4 @@ $ go run constant.go
 5) "For"
 
 package  main
+import  "fmt"
