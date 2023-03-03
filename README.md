@@ -100,3 +100,5 @@ func  main ()  {
 	
 $ go run constant.go
 
+
+5) "For"
