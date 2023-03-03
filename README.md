@@ -96,3 +96,7 @@ func  main ()  {
 
     fmt . println ( math . sin ( n )) 
 }
+
+	
+$ go run constant.go
+
