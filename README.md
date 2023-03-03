@@ -5,3 +5,9 @@ Plan:
 
 add the code to the file hello-world.goand run go run
 
+package main
+import "fmt"
+func main() {
+    fmt.Println("hello world")
+}
+
