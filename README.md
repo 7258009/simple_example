@@ -75,3 +75,8 @@ true
 apple
 
 4) Constants
+package  main
+import  ( 
+    "fmt" 
+    "math" 
+)
