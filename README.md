@@ -75,8 +75,24 @@ true
 apple
 
 4) Constants
+
 package  main
 import  ( 
     "fmt" 
     "math" 
 )
+
+const  s  string  =  "constant"
+
+func  main ()  { 
+    fmt . println ( s )
+
+    const  n  =  500000000
+
+    const  d  =  3e20  /  n 
+    fmt . println ( d )
+
+    fmt . println ( int64 ( d ))
+
+    fmt . println ( math . sin ( n )) 
+}
