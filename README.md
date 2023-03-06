@@ -294,3 +294,6 @@ fmt.Println("emp:", s)
     s = append(s, "d")
 
     s = append(s, "e", "f")
+
+    fmt.Println("apd:", s)
+
