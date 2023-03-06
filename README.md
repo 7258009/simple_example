@@ -339,3 +339,6 @@ emp: [  ]
 set: [a b c]
 
 get: c
+
+len: 3
+a
