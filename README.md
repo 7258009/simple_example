@@ -278,3 +278,9 @@ dcl: [1 2 3 4 5]
 package main
 import "fmt"
 func main() {
+
+s := make([]string, 3)
+
+
+
+
