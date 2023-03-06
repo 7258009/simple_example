@@ -305,3 +305,5 @@ fmt.Println("emp:", s)
 
     l := s[2:5]
   
+    fmt.Println("sl1:", l)
+   
