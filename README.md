@@ -289,7 +289,6 @@ fmt.Println("emp:", s)
     fmt.Println("set:", s)
     fmt.Println("get:", s[2])
 
-	
     fmt.Println("len:", len(s))
 
- 
+    s = append(s, "d")
