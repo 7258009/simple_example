@@ -322,3 +322,4 @@ fmt.Println("emp:", s)
    twoD := make([][]int, 3)
     for i := 0; i < 3; i++ {
  
+        innerLen := i + 1
