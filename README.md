@@ -329,3 +329,5 @@ fmt.Println("emp:", s)
             twoD[i][j] = i + j
         }
     }
+    fmt.Println("2d: ", twoD)
+}
