@@ -303,4 +303,5 @@ fmt.Println("emp:", s)
 
     fmt.Println("cpy:", c)
 
+    l := s[2:5]
   
