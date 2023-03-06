@@ -315,4 +315,4 @@ fmt.Println("emp:", s)
 
     fmt.Println("sl3:", l)
 
-
+    t := []string{"g", "h", "i"}
