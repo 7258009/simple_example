@@ -275,4 +275,5 @@ dcl: [1 2 3 4 5]
 
 9) "Slices"
 
+package main
 
