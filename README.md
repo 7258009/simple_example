@@ -263,3 +263,5 @@ var twoD [2][3]int
     }
     fmt.Println("2d: ", twoD)
 }
+
+$ go run arrays.go
