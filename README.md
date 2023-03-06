@@ -341,4 +341,4 @@ set: [a b c]
 get: c
 
 len: 3
-a
+apd: [a b c d e f]
