@@ -282,6 +282,7 @@ func main() {
 s := make([]string, 3)
 fmt.Println("emp:", s)
 
-
+   s[0] = "a"
+   
 
 
