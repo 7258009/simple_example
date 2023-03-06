@@ -239,3 +239,6 @@ Don't know type string
 8) "Arrays"
 
 package main
+
+import "fmt"
+
