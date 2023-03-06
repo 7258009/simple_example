@@ -288,5 +288,8 @@ fmt.Println("emp:", s)
     s[2] = "c"
     fmt.Println("set:", s)
     fmt.Println("get:", s[2])
-    
 
+	
+    fmt.Println("len:", len(s))
+
+ 
