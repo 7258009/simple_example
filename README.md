@@ -297,3 +297,4 @@ fmt.Println("emp:", s)
 
     fmt.Println("apd:", s)
 
+    c := make([]string, len(s))
