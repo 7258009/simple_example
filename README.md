@@ -320,3 +320,5 @@ fmt.Println("emp:", s)
     fmt.Println("dcl:", t)
 
    twoD := make([][]int, 3)
+    for i := 0; i < 3; i++ {
+ 
