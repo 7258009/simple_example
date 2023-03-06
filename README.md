@@ -317,4 +317,6 @@ fmt.Println("emp:", s)
 
     t := []string{"g", "h", "i"}
 
+    fmt.Println("dcl:", t)
 
+   
