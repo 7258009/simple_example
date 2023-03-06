@@ -331,3 +331,11 @@ fmt.Println("emp:", s)
     }
     fmt.Println("2d: ", twoD)
 }
+
+
+
+$ go run slices.go
+emp: [  ]
+set: [a b c]
+
+get: c
