@@ -335,6 +335,7 @@ fmt.Println("emp:", s)
 
 
 $ go run slices.go
+
 emp: [  ]
 
 set: [a b c]
