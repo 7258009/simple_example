@@ -327,3 +327,4 @@ fmt.Println("emp:", s)
         twoD[i] = make([]int, innerLen)
         for j := 0; j < innerLen; j++ {
             twoD[i][j] = i + j
+        }
